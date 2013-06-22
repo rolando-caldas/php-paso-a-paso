@@ -2,6 +2,6 @@
 
 echo 'Iniciando ejecuci&oacute;n<br />';
 
-include './include-error.php';
+require './include.php';
 
 echo 'Finalizando ejecuci&oacute;n';
