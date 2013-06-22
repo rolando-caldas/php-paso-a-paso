@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title><?php echo 'Hola Mundo!'; ?></title>
+        <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" id="global-css" href="./style.css" type="text/css" media="all" />
     </head>
     <body>
