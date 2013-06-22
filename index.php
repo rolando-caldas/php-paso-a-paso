@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title><?php echo 'Hola Mundo!'; ?></title>
+        <link rel="stylesheet" id="global-css" href="./style.css" type="text/css" media="all" />
     </head>
     <body>
         <header>
